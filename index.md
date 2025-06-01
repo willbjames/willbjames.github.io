@@ -11,7 +11,7 @@ Musical experience designer in New York
 
 ## Part 1: Iola Walker
 
-https://github.com/willjamescode/iolawalker
+[code](https://github.com/willjamescode/iolawalker)
 
 
 

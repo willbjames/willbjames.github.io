@@ -15,11 +15,11 @@ Musical experience designer in New York
 
 
 
-In music, polyrhythms are propulsion-generating overlays according to principles of musical tension and release. For example, when a song is in 4/4 time, a piano player might play a polyrhythm in dotted quarter notes to generate excitement.
+In music, polyrhythms are propulsion-generating overlaid figures prescribed according to principles of musical tension and release. For example, in a jazz song with swung 4/4 time, a piano player might play a polyrhythmic figure of dotted quarter notes to induce excitement underneath an improvised solo. This two against three polyrhythm is a common one: a hemiola.
 
-Often, a person will listen to music while walking purposefully to their next destination, or while strolling leisurely to relax. In the Iola Walker system, musicians record songs with an walking listener in mind, imagining typical walking paces while playing improvised parts. Multiple versions of the same song are recorded with a variety of underlying polyrhythmic pulses.
+The 'iola' walker system is a medium for writing music to be played back while the listener is walking. Musicians record songs with a walking listener in mind, imagining typical walking paces while playing improvised parts. Multiple versions of the same song are recorded with a variety of underlying polyrhythmic pulses.
 
-A person goes for a walk, and Iola Walker detects their walking pace. It then chooses, for the next section of a song, the version of the song with underlying polyrhythms closest to the listener’s walking pace. Iola Walker picks up footfalls using a foot-mounted IMU, processing the signals using a recurrent neural network in an android app, and outputting those signals via midi events, to be consumed by a VST plugin.
+A listener goes for a walk, and the Iola Walker app detects their walking pace. The iola walker app plays the next segment of the song with underlying polyrhythms closest to the listener’s walking pace. Iola Walker picks up footfalls using a foot-mounted accelerometer, processing the signals in real time using a recurrent neural network in an android app. The android app outputs a midi event for each footfall.
 
 ![Foot-mounted IMU for footfall detection](images/iolaShoe.png)
 

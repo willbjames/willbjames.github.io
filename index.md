@@ -11,6 +11,10 @@ Musical experience designer in New York
 
 ## Part 1: Iola Walker
 
+https://github.com/willjamescode/iolawalker
+
+
+
 In music, polyrhythms are propulsion-generating overlays according to principles of musical tension and release. For example, when a song is in 4/4 time, a piano player might play a polyrhythm in dotted quarter notes to generate excitement.
 Often, a person will listen to music while walking purposefully to their next destination, or take a walk while listening to music in order to relax. In the Iola Walker system, musicians record songs with an walking listener in mind, imagining typical walking paces while playing improvised parts. Multiple versions of the same song are recorded with a variety of underlying polyrhythmic pulses.
 
@@ -21,7 +25,3 @@ A person goes for a walk, and Iola Walker detects their walking pace. It then ch
 ![VST3 plugin receiving MIDI messages](images/iolaApp.png)
 
 ---
-
-```html
-<!-- You can even include raw HTML -->
-<p>This is a paragraph written in HTML inside the Markdown.</p>

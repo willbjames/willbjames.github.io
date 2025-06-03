@@ -13,7 +13,7 @@ Musical experience designer in New York
 
 [github.com/willjamescode/iolawalker](https://github.com/willjamescode/iolawalker)
 
-
+[2025 paper](https://arxiv.org/pdf/2506.01211)
 
 In music, polyrhythms are propulsion-generating, overlaid figures prescribed according to principles of musical tension and release.  For example, in a jazz song with swung 4/4 time, a piano player might play a polyrhythmic figure of dotted quarter notes to induce excitement underneath an improvised solo. This two against three polyrhythm is a common one: a hemiola.
 

@@ -11,7 +11,7 @@ Music technology researcher in New York, NY
 
 ## Part 1: Iola Walker
 
-[github.com/willjamescode/iolawalker](https://github.com/willbjames/iolawalker)
+[github.com/willbjames/iolawalker](https://github.com/willbjames/iolawalker)
 
 [2025 paper](https://arxiv.org/pdf/2506.01211)
 

@@ -9,7 +9,7 @@ Music technology researcher in New York, NY
 
 # Music Enhancement Hardware Project
 
-## Part 1: Iola Walker
+## June 2025: Iola Walker
 
 [github.com/willbjames/iolawalker](https://github.com/willbjames/iolawalker)
 

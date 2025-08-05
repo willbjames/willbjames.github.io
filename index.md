@@ -5,13 +5,13 @@ title: Home
 
 # Will James
 
-Musical experience designer in New York
+Music technology researcher in New York, NY
 
 # Music Enhancement Hardware Project
 
 ## Part 1: Iola Walker
 
-[github.com/willjamescode/iolawalker](https://github.com/willjamescode/iolawalker)
+[github.com/willjamescode/iolawalker](https://github.com/willbjames/iolawalker)
 
 [2025 paper](https://arxiv.org/pdf/2506.01211)
 
